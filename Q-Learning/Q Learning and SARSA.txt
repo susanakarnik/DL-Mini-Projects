@@ -1,0 +1,3 @@
+In Q-Learning, the agent learns optimal policy using absolute greedy policy and behaves using  other policies such as ?-greedy policy. Because the update policy is different to the behavior  policy, so Q-Learning is off-policy.
+
+In SARSA, the agent learns optimal policy and behaves using the same policy such as ?-greedy  policy. Because the update policy is the same to the behavior policy, so SARSA is on-policy.

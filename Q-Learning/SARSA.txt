@@ -1,0 +1,10 @@
+State–action–reward–state–action (SARSA) is an algorithm for  learning a Markov decision process policy, used in the reinforcement  learning area of machine learningIt is a technical note with the name  "Modified Connectionist Q-Learning" (MCQ-L). The alternative name  SARSA, proposed by Rich Sutton, was only mentioned as a footnote
+
+
+
+
+
+
+
+
+

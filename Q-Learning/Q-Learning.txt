@@ -1,0 +1,2 @@
+Q-learning is one of the technique to find the optimal policy in an MDP. The objective of Q-  learning is to find a policy that is optimal in the sense that the expected value of the total  reward over all successive steps is the maximum achievable. So, in other words, the goal of Q-  learning is to find the optimal policy by learning the optimal
+Q-values for each state-action pair.
